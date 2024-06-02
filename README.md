@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cod3wizzard
 - 👀 I’m interested in a lot of toppics in IT ,especially AI !
-- 🌱 I’m currently learning IT-Administration and started Cybersecurity on the side.
+- 🌱 I’m currently learning IT-Administration and started learning Cybersecurity on the side.
 - 📫 How to reach me ? Only Git
 
 
