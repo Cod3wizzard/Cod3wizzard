@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cod3wizzard
-- 👀 I’m interested in a lot of toppics in IT especially AI !
-- 🌱 I’m currently learning IT-Administration and Cybersecurity from the scratch
-- 📫 How to reach me ? Onlyy Git
+- 👀 I’m interested in a lot of toppics in IT ,especially AI !
+- 🌱 I’m currently learning IT-Administration and started Cybersecurity on the side.
+- 📫 How to reach me ? Only Git
 
 
 <!---
